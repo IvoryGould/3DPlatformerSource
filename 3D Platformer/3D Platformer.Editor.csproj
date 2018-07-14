@@ -348,6 +348,10 @@
       <Project>{A5EF5E4A-4FE9-1EDD-6447-9E24B75AEEC3}</Project>
       <Name>3D Platformer.Plugins</Name>
     </ProjectReference>
+    <ProjectReference Include="3D Platformer.csproj">
+      <Project>{1AC1A94F-8097-0B3A-C1B2-0C91CABDF980}</Project>
+      <Name>3D Platformer</Name>
+    </ProjectReference>
     <ProjectReference Include="3D Platformer.Editor.Plugins.csproj">
       <Project>{6470D29B-5287-CA17-026E-196145E06AC9}</Project>
       <Name>3D Platformer.Editor.Plugins</Name>

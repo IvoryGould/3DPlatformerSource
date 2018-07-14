@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Platformer.Plugins", "3D Platformer.Plugins.csproj", "{A5EF5E4A-4FE9-1EDD-6447-9E24B75AEEC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Platformer", "3D Platformer.csproj", "{1AC1A94F-8097-0B3A-C1B2-0C91CABDF980}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Platformer.Editor.Plugins", "3D Platformer.Editor.Plugins.csproj", "{6470D29B-5287-CA17-026E-196145E06AC9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.PackageManagerUI.Editor", "Unity.PackageManagerUI.Editor.csproj", "{6877705C-FBD9-0C4F-5AFB-6FB431E5D39D}"
@@ -21,6 +23,10 @@ Global
 		{A5EF5E4A-4FE9-1EDD-6447-9E24B75AEEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5EF5E4A-4FE9-1EDD-6447-9E24B75AEEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5EF5E4A-4FE9-1EDD-6447-9E24B75AEEC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC1A94F-8097-0B3A-C1B2-0C91CABDF980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC1A94F-8097-0B3A-C1B2-0C91CABDF980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC1A94F-8097-0B3A-C1B2-0C91CABDF980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC1A94F-8097-0B3A-C1B2-0C91CABDF980}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6470D29B-5287-CA17-026E-196145E06AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6470D29B-5287-CA17-026E-196145E06AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6470D29B-5287-CA17-026E-196145E06AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
